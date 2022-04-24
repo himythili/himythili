@@ -17,16 +17,16 @@
 > Will add key learnings as I learn
 
 ## Technical Skills 
-| S.No. | Technical Skill | 
+| Technologies | Skills | 
 | --- | --- |
 | OS | Linux - RHEL, CentOS, Ubuntu |
-| Virtualization Technologies | VMware, KVM |
-| Container Technologies | Dockers, Kubernetes, RHOCP |
-| Cloud Technologies | Openstack - RHOSP |
+| Virtualization | VMware, KVM |
+| Container | Dockers, Kubernetes, RHOCP |
+| Cloud | Openstack - RHOSP |
 | Testing | Functional Testing, Integration Testing, User Acceptance Testing |
 | Tools | JIRA, Wiki |
 | Domains | Telecom, Networking |
-| Others | JSON, XML, Ansible |
+| Others | Data Formats - JSON, XML, Infrastructure as Code - Ansible, SDLC - Agile Methodologies |
 
 ## Publications
 **[LTE Handover Interruption Time Analysis for IMT-A Evaluation](https://ieeexplore.ieee.org/document/6024519)**
