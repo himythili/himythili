@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning - **[Markdown](https://www.markdownguide.org/basic-syntax/)**, **[OpenAPI/Swagger](https://swagger.io/specification/)**, **[Git/GitHub](https://www.udemy.com/course/git-and-github-for-writers/)**
 - 🌱 I will be learning - **AsciiDoc, DITA, MadCap Flare**
 - 💞️ I’m looking to collaborate on ***Open Source Documentation***
-- 📫 You can reah me via GitHub
+- 📫 You can reach me via GitHub
 
 > I started to develop interest in writing while providing inputs and reviewing content to documents like Planning Guides, User Guides, Release Notes etc.
 > 
